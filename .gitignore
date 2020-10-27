@@ -5,5 +5,8 @@
 *.info
 *.y
 Makefile
-*/Local/
+*/Local/*
+/Local/*
 */*tmp*/
+*copy*
+
